@@ -13,7 +13,7 @@ description:	#站点信息简介
 author: qianjiangtao		#站点作者
 language: zh-Hans	#站点语言，default 默认是英文，zh-Hans 是中文
 timezone: Asia/Shanghai		#时区
-avatar: /images/20180820160903.png	#站点 logo
+avatar: /images/0U1422448-2.jpg	#站点 logo
 
 # URL 博客地址
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
