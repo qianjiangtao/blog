@@ -8,6 +8,10 @@ tags:
 
 ---
 
+![](https://gitee.com/qianjiangtao/my-image/raw/master/blog/2018-11-1-13-57.jpg)
+
+<!--more-->
+
 #### 一.本地代码更新冲突
 
 
@@ -24,7 +28,7 @@ $ git stash
 $ git pull
 ```
 
-<!--more-->
+
 
 3.将本地之前暂存区代码弹出
 

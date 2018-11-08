@@ -10,9 +10,15 @@ tags:
 
 
 
+
+
+
+
+![](https://gitee.com/qianjiangtao/my-image/raw/master/blog/2018-11-1-13-53.jpg)
+
+<!--more-->
+
 ## 一. Java Blocking I/O
-
-
 
 
 
@@ -21,8 +27,6 @@ tags:
 ![1533804294939](https://gitee.com/qianjiangtao/my-image/raw/master/netty/1533804294939.png)
 
 
-
-<!--more-->
 
 
 
