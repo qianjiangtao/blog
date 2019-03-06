@@ -7,7 +7,7 @@ tags:
 - Redis
 ---
 
-![](https://gitee.com/qianjiangtao/my-image/raw/master/redis/20160808041943-43.jpg)
+![](https://gitee.com/qianjiangtao/my-image/raw/master/redis/20160808041943.jpg)
 
 <!--more-->
 
